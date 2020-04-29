@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - director
+  - target
+  - Collectables
+  - Ground
   layers:
   - Default
   - TransparentFX

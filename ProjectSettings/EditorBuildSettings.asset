@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene_0.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Snaps.unity
+    guid: 21ee09bbf6c5acc4782c4ba0646857e1
+  - enabled: 1
+    path: Assets/Scenes/Snaps Roll a Ball.unity
+    guid: 2358b225ffca27f428b8426facac2ff9
   m_configObjects: {}
